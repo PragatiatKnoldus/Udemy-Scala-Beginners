@@ -43,5 +43,4 @@ object Functions extends App{
     else fibo(num-1) + fibo(num-2)
   }
   println(fibo(8))
-
 }
